@@ -23,6 +23,10 @@
 }
 
 /* Posititoning Classes */
+.before-tex {
+  margin-bottom: 2px;
+}
+
 .col-1 {
   float: left;
   width: 32%;
